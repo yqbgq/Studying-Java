@@ -2,4 +2,4 @@
 ---
 
 
-个人博客!(https://www.amoshuang.com)
+个人博客https://www.amoshuang.com
