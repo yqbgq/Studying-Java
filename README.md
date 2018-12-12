@@ -10,6 +10,7 @@
 
 ## Java 虚拟机
 1. [通过设置JVM虚拟机参数对锁进行优化](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/通过设置JVM虚拟机参数对锁进行优化.md)
+2. [JVM内存分配参数对程序性能的影响（一）](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/JVM内存分配参数对程序性能的影响（一）.md)
 <br/>
 
 个人博客[https://www.amoshuang.com](https://www.amoshuang.com)
