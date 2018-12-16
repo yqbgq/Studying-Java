@@ -4,6 +4,12 @@
 1. [Java中Native关键字](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中Native关键字.md)
 <br/>
 
+## Java 设计模糊
+1. [单例模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/单例模式.md)
+2. [代理模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/代理模式.md)
+<br/>
+
+
 ## Java 多线程编程
 1. [通过设置JVM虚拟机参数对锁进行优化](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/通过设置JVM虚拟机参数对锁进行优化.md)
 <br/>
