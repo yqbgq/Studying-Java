@@ -2,7 +2,7 @@
 
 ## Java 基础知识
 1. [Java中Native关键字](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中Native关键字.md)
-2. [import static 与 import的区别](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/import static 与 import的区别.md )
+2. [import static 与 import的区别](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/import_static与import的区别.md)
 <br/>
 
 ## Java 设计模式
