@@ -7,6 +7,7 @@
 4. [使用StringBuilder、StringBuffer和String构造方法创建String对象的性能比较](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/使用StringBuilder、StringBuffer和String构造方法创建String对象的性能比较.md)
 5. [浅析Java的垃圾回收机制](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/浅析Java的垃圾回收机制.md)
 6. [Java中形参个数可变的方法](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中形参个数可变的方法.md)
+7. [乐观锁与悲观锁的区别](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/乐观锁与悲观锁的区别.md)
 <br/>
 
 ## I/O
