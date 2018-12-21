@@ -6,10 +6,8 @@
 3. [避免在finally块中返回内容或抛出异常](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/避免在finally块中返回内容或抛出异常.md)
 <br/>
 
-## Java 设计模式
-1. [单例模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/单例模式.md)
-2. [代理模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/代理模式.md)
-<br/>
+## I/O
+1. [使用缓冲进行优化，协调上下层组件的性能差](https://github.com/yqbgq/Studying-Java/blob/master/IO/使用缓冲进行优化，协调上下层组件的性能差.md)
 
 
 ## Java 多线程编程
@@ -25,6 +23,11 @@
 3. [JVM内存分配参数对程序性能的影响（二）](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/JVM内存分配参数对程序性能的影响（二）.md)
 4. [六种主要的垃圾回收算法和思想](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/六种主要的垃圾回收算法和思想.md)
 5. [JVM常用调优案例](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/JVM常用调优案例.md)
+<br/>
+
+## Java 设计模式
+1. [单例模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/单例模式.md)
+2. [代理模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/代理模式.md)
 <br/>
 
 个人博客[https://www.amoshuang.com](https://www.amoshuang.com)欢迎访问
