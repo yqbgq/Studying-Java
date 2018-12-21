@@ -6,6 +6,7 @@
 3. [避免在finally块中返回内容或抛出异常](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/避免在finally块中返回内容或抛出异常.md)
 4. [使用StringBuilder、StringBuffer和String构造方法创建String对象的性能比较](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/使用StringBuilder、StringBuffer和String构造方法创建String对象的性能比较.md)
 5. [浅析Java的垃圾回收机制](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/浅析Java的垃圾回收机制.md)
+6. [Java中形参个数可变的方法](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中形参个数可变的方法.md)
 <br/>
 
 ## I/O
