@@ -1,5 +1,3 @@
 ## Junit-Guide
 
-1. [Junit创建一个测试的三个步骤]()
-2. [一个简单的测试例子]()
-3. [重要API]()
+1. [log4j2结构浅析以及入门示例](https://github.com/yqbgq/Studying-Java/blob/master/重要框架或包/Log4j/log4j2结构浅析以及入门示例.md)
