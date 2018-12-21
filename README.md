@@ -4,6 +4,7 @@
 1. [Java中Native关键字](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中Native关键字.md)
 2. [import static 与 import的区别](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/import_static与import的区别.md)
 3. [避免在finally块中返回内容或抛出异常](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/避免在finally块中返回内容或抛出异常.md)
+4. [使用StringBuilder、StringBuffer和String构造方法创建String对象的性能比较](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/使用StringBuilder、StringBuffer和String构造方法创建String对象的性能比较.md)
 <br/>
 
 ## I/O
