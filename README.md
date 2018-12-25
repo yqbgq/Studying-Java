@@ -10,6 +10,9 @@
 7. [乐观锁与悲观锁的区别](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/乐观锁与悲观锁的区别.md)
 8. [构造器完全负责了Java对象的创建吗](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/构造器完全负责了Java对象的创建吗.md)
 9. [Java使用继承时需要注意的二三事](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java使用继承时需要注意的二三事.md)
+10. [Java中“==”运算符、equals()方法和常量池的关联](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中“==”运算符、equals()方法和常量池的关联.md)
+11. [Java面向对象中的super限定](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java面向对象中的super限定.md)
+12. [Java类初始化时初始化块、静态初始化块和构造器之间的关系](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java类初始化时初始化块、静态初始化块和构造器之间的关系.md)
 <br/>
 
 ## I/O
