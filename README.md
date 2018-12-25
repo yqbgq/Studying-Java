@@ -9,6 +9,7 @@
 6. [Java中形参个数可变的方法](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中形参个数可变的方法.md)
 7. [乐观锁与悲观锁的区别](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/乐观锁与悲观锁的区别.md)
 8. [构造器完全负责了Java对象的创建吗](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/构造器完全负责了Java对象的创建吗.md)
+9. [Java使用继承时需要注意的二三事](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java使用继承时需要注意的二三事.md)
 <br/>
 
 ## I/O
