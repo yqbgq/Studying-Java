@@ -15,7 +15,9 @@
 
 
 ## Java 多线程编程
-1. [通过设置JVM虚拟机参数对锁进行优化](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/通过设置JVM虚拟机参数对锁进行优化.md)
+1. [发挥多核CPU性能——并行程序设计模式之Future模式](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/发挥多核CPU性能——并行程序设计模式之Future模式.md)
+1. [Java多线程中避免在多生产者和多消费者场景中出现假死](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/Java多线程中避免在多生产者和多消费者场景中出现假死.md)
+
 <br/>
 
 ## 重要的框架或包
