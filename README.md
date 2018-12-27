@@ -26,6 +26,7 @@
 3. [构造器完全负责了Java对象的创建吗](https://github.com/yqbgq/Studying-Java/blob/master/面向对象/构造器完全负责了Java对象的创建吗.md)
 4. [Java中的匿名内部类及内部类的二三事](https://github.com/yqbgq/Studying-Java/blob/master/面向对象/Java中的匿名内部类及内部类的二三事.md)
 5. [详解Java中对象的软、弱和虚引用的区别](https://github.com/yqbgq/Studying-Java/blob/master/面向对象/详解Java中对象的软、弱和虚引用的区别.md)
+6. [浅析Java中的泛型](https://github.com/yqbgq/Studying-Java/blob/master/面向对象/浅析Java中的泛型.md)
 
 
 <br/>
