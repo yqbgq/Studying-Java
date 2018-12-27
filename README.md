@@ -42,6 +42,7 @@
 1. [单例模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/单例模式.md)
 2. [代理模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/代理模式.md)
 3. [并行程序设计模式之Future模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/并行程序设计模式之Future模式.md)
+2. [Java面向接口编程，低耦合高内聚的设计哲学](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/Java面向接口编程，低耦合高内聚的设计哲学.md)
 <br/>
 
 个人博客[https://www.amoshuang.com](https://www.amoshuang.com)欢迎访问
