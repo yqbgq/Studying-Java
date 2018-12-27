@@ -13,6 +13,7 @@
 10. [Java中“==”运算符、equals()方法和常量池的关联](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中“==”运算符、equals()方法和常量池的关联.md)
 11. [Java面向对象中的super限定](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java面向对象中的super限定.md)
 12. [Java类初始化时初始化块、静态初始化块和构造器之间的关系](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java类初始化时初始化块、静态初始化块和构造器之间的关系.md)
+13. [Java中final修饰符对不同变量的不同影响](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中final修饰符对不同变量的不同影响.md)
 <br/>
 
 ## I/O
