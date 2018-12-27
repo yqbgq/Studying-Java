@@ -8,17 +8,19 @@
 5. [浅析Java的垃圾回收机制](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/浅析Java的垃圾回收机制.md)
 6. [Java中形参个数可变的方法](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中形参个数可变的方法.md)
 7. [乐观锁与悲观锁的区别](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/乐观锁与悲观锁的区别.md)
-8. [构造器完全负责了Java对象的创建吗](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/构造器完全负责了Java对象的创建吗.md)
-9. [Java使用继承时需要注意的二三事](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java使用继承时需要注意的二三事.md)
-10. [Java中“==”运算符、equals()方法和常量池的关联](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中“==”运算符、equals()方法和常量池的关联.md)
-11. [Java面向对象中的super限定](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java面向对象中的super限定.md)
-12. [Java类初始化时初始化块、静态初始化块和构造器之间的关系](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java类初始化时初始化块、静态初始化块和构造器之间的关系.md)
-13. [Java中final修饰符对不同变量的不同影响](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中final修饰符对不同变量的不同影响.md)
+8. [Java中“==”运算符、equals()方法和常量池的关联](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中“==”运算符、equals()方法和常量池的关联.md)
+9. [Java类初始化时初始化块、静态初始化块和构造器之间的关系](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java类初始化时初始化块、静态初始化块和构造器之间的关系.md)
+10. [Java中final修饰符对不同变量的不同影响](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中final修饰符对不同变量的不同影响.md)
 <br/>
 
+## 面向对象
+1. [Java面向对象中的super限定](https://github.com/yqbgq/Studying-Java/blob/master/面向对象/Java面向对象中的super限定.md)
+2. [Java使用继承时需要注意的二三事](https://github.com/yqbgq/Studying-Java/blob/master/面向对象/Java使用继承时需要注意的二三事.md)
+3. [构造器完全负责了Java对象的创建吗](https://github.com/yqbgq/Studying-Java/blob/master/面向对象/构造器完全负责了Java对象的创建吗.md)
+<br/>
 ## I/O
 1. [使用缓冲进行优化，协调上下层组件的性能差](https://github.com/yqbgq/Studying-Java/blob/master/IO/使用缓冲进行优化，协调上下层组件的性能差.md)
-
+<br/>
 
 ## Java 多线程编程
 1. [发挥多核CPU性能——并行程序设计模式之Future模式](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/发挥多核CPU性能——并行程序设计模式之Future模式.md)
@@ -29,6 +31,7 @@
 ## 重要的框架或包
 1. [Junit](https://github.com/yqbgq/Studying-Java/blob/master/重要框架或包/Junit/Junit-Guide.md)
 2. [Log4j2](https://github.com/yqbgq/Studying-Java/blob/master/重要框架或包/Log4j/Log4j-Guide.md)
+<br/>
 
 ## Java 虚拟机
 1. [通过设置JVM虚拟机参数对锁进行优化](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/通过设置JVM虚拟机参数对锁进行优化.md)
