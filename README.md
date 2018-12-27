@@ -1,5 +1,10 @@
 # Studying-Java
 
+#### 这个仓库保存了我的一些Java学习笔记，其中包含了Java基础知识、面向对象编程、IO、多线程编程、Java虚拟机以及设计模式等等，希望能为你提供一些帮助。
+#### 该仓库持续更新，欢迎转载，转载请注明出处，谢谢
+#### 与喧嚣保持距离，与梦想平等交易
+
+
 ## Java 基础知识
 1. [Java中Native关键字](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中Native关键字.md)
 2. [import static 与 import的区别](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/import_static与import的区别.md)
@@ -53,4 +58,6 @@
 2. [Java面向接口编程，低耦合高内聚的设计哲学](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/Java面向接口编程，低耦合高内聚的设计哲学.md)
 <br/>
 
-个人博客[https://www.amoshuang.com](https://www.amoshuang.com)欢迎访问
+##
+
+#### 个人博客[https://www.amoshuang.com](https://www.amoshuang.com)欢迎访问
