@@ -37,12 +37,13 @@
 ## I/O
 1. [使用缓冲进行优化，协调上下层组件的性能差](https://github.com/yqbgq/Studying-Java/blob/master/IO/使用缓冲进行优化，协调上下层组件的性能差.md)
 2. [Java中的RandomAccessFile使用浅析](https://github.com/yqbgq/Studying-Java/blob/master/IO/Java中的RandomAccessFile使用浅析.md)
-2. [Java中使用处理流操作IO](https://github.com/yqbgq/Studying-Java/blob/master/IO/Java中使用处理流操作IO.md)
+3. [Java中使用处理流操作IO](https://github.com/yqbgq/Studying-Java/blob/master/IO/Java中使用处理流操作IO.md)
 <br/>
 
 ## Java 多线程编程
 1. [发挥多核CPU性能——并行程序设计模式之Future模式](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/发挥多核CPU性能——并行程序设计模式之Future模式.md)
-1. [Java多线程中避免在多生产者和多消费者场景中出现假死](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/Java多线程中避免在多生产者和多消费者场景中出现假死.md)
+2. [Java多线程中避免在多生产者和多消费者场景中出现假死](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/Java多线程中避免在多生产者和多消费者场景中出现假死.md)
+3. [在Java中应用文件锁](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/在Java中应用文件锁.md)
 
 <br/>
 
@@ -63,7 +64,7 @@
 1. [单例模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/单例模式.md)
 2. [代理模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/代理模式.md)
 3. [并行程序设计模式之Future模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/并行程序设计模式之Future模式.md)
-2. [Java面向接口编程，低耦合高内聚的设计哲学](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/Java面向接口编程，低耦合高内聚的设计哲学.md)
+4. [Java面向接口编程，低耦合高内聚的设计哲学](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/Java面向接口编程，低耦合高内聚的设计哲学.md)
 <br/>
 
 ##
