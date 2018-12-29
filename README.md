@@ -46,7 +46,7 @@
 3. [发挥多核CPU性能——并行程序设计模式之Future模式](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/发挥多核CPU性能——并行程序设计模式之Future模式.md)
 4. [Java多线程中避免在多生产者和多消费者场景中出现假死](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/Java多线程中避免在多生产者和多消费者场景中出现假死.md)
 5. [在Java中应用文件锁](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/在Java中应用文件锁.md)
-
+6. [使用管道进行线程之间的通信的简单示例](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/使用管道进行线程之间的通信的简单示例.md)
 <br/>
 
 ## 重要的框架或包
