@@ -18,7 +18,7 @@
 10. [Java中final修饰符对不同变量的不同影响](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中final修饰符对不同变量的不同影响.md)
 11. [Java中的匿名内部类及内部类的二三事](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java中的匿名内部类及内部类的二三事.md)
 12. [Java五种基本的Annotation，提高程序的可读性](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/Java五种基本的Annotation，提高程序的可读性.md)
-
+13. [在Java中进行序列化和反序列化](https://github.com/yqbgq/Studying-Java/blob/master/基础知识/在Java中进行序列化和反序列化.md)
 
 
 <br/>
