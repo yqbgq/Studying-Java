@@ -42,9 +42,10 @@
 
 ## Java 多线程编程
 1. [Java中多线程的概述](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/Java中多线程的概述.md)
-2. [发挥多核CPU性能——并行程序设计模式之Future模式](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/发挥多核CPU性能——并行程序设计模式之Future模式.md)
-3. [Java多线程中避免在多生产者和多消费者场景中出现假死](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/Java多线程中避免在多生产者和多消费者场景中出现假死.md)
-4. [在Java中应用文件锁](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/在Java中应用文件锁.md)
+2. [Java创建线程的三种方式以及优劣对比](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/Java创建线程的三种方式以及优劣对比.md)
+3. [发挥多核CPU性能——并行程序设计模式之Future模式](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/发挥多核CPU性能——并行程序设计模式之Future模式.md)
+4. [Java多线程中避免在多生产者和多消费者场景中出现假死](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/Java多线程中避免在多生产者和多消费者场景中出现假死.md)
+5. [在Java中应用文件锁](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/在Java中应用文件锁.md)
 
 <br/>
 
