@@ -48,6 +48,7 @@
 5. [在Java中应用文件锁](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/在Java中应用文件锁.md)
 6. [使用管道进行线程之间的通信的简单示例](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/使用管道进行线程之间的通信的简单示例.md)
 7. [线程同步中，join()方法的“陷阱”](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/线程同步中，join()方法的“陷阱”.md)
+8. [使用Condition实现多线程中等待以及通知](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/使用Condition实现多线程中等待以及通知.md)
 <br/>
 
 
