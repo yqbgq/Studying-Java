@@ -51,6 +51,7 @@
 8. [使用Condition实现多线程中等待以及通知](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/使用Condition实现多线程中等待以及通知.md)
 9. [在Java中使用工具方法控制线程的执行](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/在Java中使用工具方法控制线程的执行.md)
 10.[Java中线程同步的方法概述](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/Java中线程同步的方法概述.md)
+11.[Java多线程编程中使用interrupt停止线程](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/Java多线程编程中使用interrupt停止线程.md)
 
 <br/>
 
@@ -76,7 +77,10 @@
 3. [并行程序设计模式之Future模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/并行程序设计模式之Future模式.md)
 4. [Java面向接口编程，低耦合高内聚的设计哲学](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/Java面向接口编程，低耦合高内聚的设计哲学.md)
 5. [享元模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/享元模式.md)
+6. [装饰者模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/装饰者模式.md)
+7. [观察者模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/观察者模式.md)
 <br/>
+
 
 ##
 
