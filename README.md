@@ -61,6 +61,7 @@
 ## 重要的框架或包
 1. [Junit](https://github.com/yqbgq/Studying-Java/blob/master/重要框架或包/Junit/Junit-Guide.md)
 2. [Log4j2](https://github.com/yqbgq/Studying-Java/blob/master/重要框架或包/Log4j/Log4j-Guide.md)
+3. [MyBatis](https://github.com/yqbgq/Studying-Java/blob/master/重要框架或包/MyBatis/MyBatis-Guide.md)
 <br/>
 
 ## Java 虚拟机
