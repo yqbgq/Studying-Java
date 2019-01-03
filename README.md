@@ -74,16 +74,15 @@
 
 ## Java 设计模式
 1. [设计模式简介](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/设计模式简介.md)
-2. [单例模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/单例模式.md)
+2. [Java面向接口编程，低耦合高内聚的设计哲学](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/Java面向接口编程，低耦合高内聚的设计哲学.md)
 3. [代理模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/代理模式.md)
 4. [并行程序设计模式之Future模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/并行程序设计模式之Future模式.md)
-5. [Java面向接口编程，低耦合高内聚的设计哲学](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/Java面向接口编程，低耦合高内聚的设计哲学.md)
+5. [单例模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/单例模式.md)
 6. [享元模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/享元模式.md)
 7. [装饰者模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/装饰者模式.md)
 8. [观察者模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/观察者模式.md)
 9. [工厂模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/工厂模式.md)
 <br/>
-
 
 ##
 
