@@ -82,6 +82,7 @@
 7. [装饰者模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/装饰者模式.md)
 8. [观察者模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/观察者模式.md)
 9. [工厂模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/工厂模式.md)
+10. [建造者模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/建造者模式.md)
 <br/>
 
 ##
