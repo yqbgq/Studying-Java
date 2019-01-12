@@ -88,6 +88,7 @@
 13. [桥接模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/桥接模式.md)
 14. [过滤器模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/过滤器模式.md)
 15. [组合模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/组合模式.md)
+15. [外观模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/外观模式.md)
 
 <br/>
 
