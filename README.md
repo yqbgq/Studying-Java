@@ -91,6 +91,9 @@
 16. [外观模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/外观模式.md)
 17. [责任链模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/责任链模式.md)
 18. [命令模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/命令模式.md)
+19. [迭代器模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/迭代器模式.md)
+20. [解释器模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/解释器模式.md)
+21. [中介者模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/中介者模式.md)
 
 <br/>
 
