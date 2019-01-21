@@ -100,6 +100,7 @@
 22. [备忘录模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/备忘录模式.md)
 23. [状态模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/状态模式.md)
 24. [空对象模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/空对象模式.md)
+25. [策略模式](https://github.com/yqbgq/Studying-Java/blob/master/设计模式/策略模式.md)
 <br/>
 
 ##
