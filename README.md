@@ -71,6 +71,7 @@
 4. [JVM内存分配参数对程序性能的影响（二）](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/JVM内存分配参数对程序性能的影响（二）.md)
 5. [六种主要的垃圾回收算法和思想](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/六种主要的垃圾回收算法和思想.md)
 6. [JVM常用调优案例](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/JVM常用调优案例.md)
+7. [Java异常实战——OutOfMemoryError](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/Java异常实战——OutOfMemoryError.md)
 
 
 <br/>
