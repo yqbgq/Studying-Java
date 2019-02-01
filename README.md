@@ -72,6 +72,8 @@
 5. [六种主要的垃圾回收算法和思想](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/六种主要的垃圾回收算法和思想.md)
 6. [JVM常用调优案例](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/JVM常用调优案例.md)
 7. [Java异常实战——OutOfMemoryError](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/Java异常实战——OutOfMemoryError.md)
+8. [HotSpot 虚拟机垃圾回收算法实现](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/HotSpot 虚拟机垃圾回收算法实现.md)
+9. [多线程死锁的产生原因以及如何避免](https://github.com/yqbgq/Studying-Java/blob/master/Java虚拟机/多线程死锁的产生原因以及如何避免.md)
 
 
 <br/>
