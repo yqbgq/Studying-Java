@@ -54,7 +54,7 @@
 9. [在Java中使用工具方法控制线程的执行](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/在Java中使用工具方法控制线程的执行.md)
 10. [Java中线程同步的方法概述](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/Java中线程同步的方法概述.md)
 11. [Java多线程编程中使用interrupt停止线程](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/Java多线程编程中使用interrupt停止线程.md)
-
+12. [Java 永久代和元空间](https://github.com/yqbgq/Studying-Java/blob/master/多线程编程/Java 永久代和元空间.md)
 <br/>
 
 
